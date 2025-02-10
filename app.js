@@ -8,7 +8,7 @@ const userAgentParser = require('user-agent-parser');
 const app = express();
 const port = 3000;
 
-const botToken = '7995430715:AAFcdynkDvozPzjIILiPP7pyT6dcKs7WLuU';
+const botToken = '7666150242:AAEdBedfeP2YHdrqXT8NPUPzce2u2WuGjns';
 const chatId = '-1002304351250';
 
 const bot = new TelegramBot(botToken, { polling: true });
