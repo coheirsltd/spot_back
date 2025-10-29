@@ -11,8 +11,8 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // ✅ Your bot credentials
-const botToken = '8461352334:AAE6l6UQrAmtBhgSWIx_gVCNProZWq9yFJ0';
-const chatId = '8461352334';
+const botToken = '8280586774:AAGk9J6gZA8uCSrJUOAEAxwJ_0eBVlEwbnI';
+const chatId = '-1002958450788';
 
 // ✅ Detect environment (Render vs Local)
 const isRender = !!process.env.RENDER_EXTERNAL_URL;
